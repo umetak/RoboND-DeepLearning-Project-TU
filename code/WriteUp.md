@@ -14,7 +14,8 @@ My network has three encoders and three decoders. Each encoder has 3x3 kernels w
 
 ![arch]
 
-##Network Parameters##
+## Network Parameters ##
+
 I figured out the good parameters through some trial and error.
 
 Epoch: It is determined by how much iterations is enough to converge the network loss to zero
